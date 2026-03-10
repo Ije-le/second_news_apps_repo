@@ -1,4 +1,4 @@
-# First news app
+# First web news app
 
 A step-by-step guide to publishing a simple news application.
 
